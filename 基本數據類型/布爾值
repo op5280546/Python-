@@ -1,0 +1,11 @@
+a = ''
+
+print(a is None)
+
+b = 0
+
+print(b is None)
+
+c = None
+
+print(c is None)
